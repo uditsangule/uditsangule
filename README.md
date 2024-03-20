@@ -50,8 +50,8 @@
 - **Expertise:** SLAM, ICP, CUDA, Digital Twin, Photogrammetry, 3D/2D Object Segmentation, 3D Shape Detection, Computational Geometry, IMU (9-DOF), Point Cloud Fusion, Sensor Fusion, TOF, IR, StereoVision Camera, Code Optimizations, 3D Visualizations, Image Super Resolution
 
 ## Education:
-- **Delhi Technological University:** M.Tech in Computer Science (Enrolled from Aug. 2018 to Mar 19)
-- **Shri Govindram Seksaria Institute of Science and Technology:** Bachelor of Engineering in Computer Science (Attended from June 2013 to May 2017)
+- **Delhi Technological University:** M.Tech in Computer Science
+- **Shri Govindram Seksaria Institute of Science and Technology , Indore:** Bachelor of Engineering in Computer Science
 
 
 
