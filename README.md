@@ -24,7 +24,8 @@
 <br>
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)\![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
