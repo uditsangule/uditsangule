@@ -20,6 +20,32 @@
 <a href="https://github.com/uditsangule">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=uditsangule&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+## Professional Experience:
+
+### Computer Vision Engineer
+**Tooliqa Innovations LLP, Gurgaon, HR**  
+
+- Conducted R&D on 3D scene reconstruction and BIM structural element detection for Twinn.hq product.
+- Developed optimized algorithms for object detection and segmentation.
+- Managed Azure Git Pull requests for Computer Vision team.
+
+## Academic Projects:
+1. NFT Art Generator using Computer Vision and GANs.
+2. Satellite-based Car and Building Detection.
+3. Astronomical Images Super Resolution.
+4. PhotoRealistic Single Image Super Resolution.
+5. AI Regression Model for Candidate Fitment Prediction.
+6. CNN-based Model for Predicting Car Insurance Costs.
+
+## Skills:
+- **Languages:** Python3, C++/C, Bash
+- **Frameworks/Libraries:** numpy, open3d, trimesh, PCL, CGAL, networkx, OpenCV, PyTorch, TensorFlow, Pandas, Scikit-Spatial, vector-geometry, Json
+- **Platforms:** Linux 18.04, Jetson device, ROS-melodic, rtabmap, Meshlab, GitHub, Heroku, Nvidia Toolkit
+- **Expertise:** SLAM, ICP, CUDA, Digital Twin, Photogrammetry, 3D/2D Object Segmentation, 3D Shape Detection, Computational Geometry, IMU (9-DOF), Point Cloud Fusion, Sensor Fusion, TOF, IR, StereoVision Camera, Code Optimizations, 3D Visualizations, Image Super Resolution
+
+## Education:
+- **Delhi Technological University:** M.Tech in Computer Science (Enrolled from Aug. 2018 to Mar 19)
+- **Shri Govindram Seksaria Institute of Science and Technology:** Bachelor of Engineering in Computer Science (Attended from June 2013 to May 2017)
 
 ## 💼 Skills
 
