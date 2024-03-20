@@ -19,6 +19,14 @@
 </a>
 
 <br>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CPlusPlus-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+
 <!--
 **uditsangule/uditsangule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
