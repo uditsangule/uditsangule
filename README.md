@@ -20,15 +20,16 @@
 <a href="https://github.com/uditsangule">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=uditsangule&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+
 ## Professional Experience:
 
-### Computer Vision Engineer
-**Tooliqa Innovations LLP, Gurgaon, HR**  
-
-- Conducted R&D on 3D scene reconstruction and BIM structural element detection for Twinn.hq product.
-- Developed optimized algorithms for object detection and segmentation.
-- Managed Azure Git Pull requests for Computer Vision team.
-
+1) Computer Vision Engineer
+  **Tooliqa Innovations LLP, Gurgaon, HR**  
+  - Conducted R&D on 3D scene reconstruction and BIM structural elements detection for Digital Twinn products.
+2) Machine Learning Engineer 
+  **Wastefull Insights Pvt Ltd , Vadodara , GJ**
+  - Researched and developed object detection models for waste segregation and recycling for robot-side deep learning applications on ROS-melodic.
+  - Optimized models for deployment on edge devices like Jetson Nano , Xavier.
 ## Academic Projects:
 1. NFT Art Generator using Computer Vision and GANs.
 2. Satellite-based Car and Building Detection.
