@@ -23,14 +23,14 @@
 
 ## Professional Experience:
 
-1) Computer Vision Engineer
-  **Tooliqa Innovations LLP, Gurgaon, HR**  
+#1 Computer Vision Engineer @Tooliqa Innovations LLP, Gurgaon,HR
   - Conducted R&D on 3D scene reconstruction and BIM structural elements detection for Digital Twinn products.
-2) Machine Learning Engineer 
-  **Wastefull Insights Pvt Ltd , Vadodara , GJ**
+
+#2 Machine Learning Engineer @Wastefull Insights Pvt Ltd , Vadodara,GJ
   - Researched and developed object detection models for waste segregation and recycling for robot-side deep learning applications on ROS-melodic.
   - Optimized models for deployment on edge devices like Jetson Nano , Xavier.
-## Academic Projects:
+
+## Self Projects:
 1. NFT Art Generator using Computer Vision and GANs.
 2. Satellite-based Car and Building Detection.
 3. Astronomical Images Super Resolution.
