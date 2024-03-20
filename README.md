@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 
+<br>
 ---
 
 
