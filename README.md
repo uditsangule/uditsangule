@@ -1,5 +1,8 @@
+---
+## Links
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/uditsangule/)
 [![gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](uditsangule@gmail.com)
+---
 
 ### Hi there 👋
 - Organized and dependable Computer Science Engineer with expertise in computer vision algorithms and Deeplearning.
@@ -19,13 +22,14 @@
 </a>
 
 <br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CPlusPlus-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+
 
 <!--
 **uditsangule/uditsangule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
