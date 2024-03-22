@@ -4,7 +4,7 @@
 [![gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.uditsangule@gmail.com)
 ---
 
-### Hi there 👋
+### Hi there 👋 I am Udit Sangule , who is ...
 - Organized and dependable Computer Science Engineer with expertise in computer vision algorithms and Deeplearning.
 - Skilled in 3D scene reconstruction, BIM structural element detection, Image Processing, Object Deteciton models.
 - Proficient in programming languages Python3 and C++.
