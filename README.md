@@ -5,9 +5,9 @@
 ---
 
 ### Hi there 👋 I am Udit Sangule , who is ...
-  a Computer Vision & Generative AI Engineer with expertise in 3D scene reconstruction, spatial computing, and intelligent automation. 
-  I am skilled in point cloud processing, BIM integration, 2D/3D object detection, and sensor fusion, with a proven ability to develop 
-  and deploy end-to-end AI/CV pipelines, including LLM integration and edge device optimization.
+    a Computer Vision & Generative AI Engineer with expertise in 3D scene reconstruction, spatial computing, and intelligent automation. 
+    I am skilled in point cloud processing, BIM integration, 2D/3D object detection, and sensor fusion, with a proven ability to develop 
+    and deploy end-to-end AI/CV pipelines, including LLM integration and edge device optimization.
 
 ## &#x1f4c8; GitHub Stats
 
