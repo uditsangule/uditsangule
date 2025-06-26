@@ -21,6 +21,20 @@ and deploy end-to-end AI/CV pipelines, including LLM integration and edge device
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=uditsangule&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+
+- **Programming & ML:** Python (NumPy, SciPy, Pandas), C++, PyTorch, ONNX, TensorRT.
+- **Computer Vision & 3D:** Photogrammetry, SLAM, Point Cloud Processing, Meshing (Open3D, Trimesh), ICP, Computational Geometry (Shapely), Object Detection & Segmentation (YOLO), OpenCV, Rasterio.
+- **Generative AI & NLP:** LangChain, OpenAI API (Data Extraction, Workflow Integration).
+- **Robotics & Sensors:** ROS-Melodic, IMU Sensors (9-DOF), Sensor Fusion, TOF Cameras.
+- **Cloud & Deployment:** AWS, Docker, NVIDIA Jetson, Linux, GitHub.
+
 ## Professional Experience [4+ Years]:
 
 **Computer Vision Engineer @ Tailorbird, Princeton, NJ, USA (Remote) (Nov 2021 – Present)**
@@ -43,20 +57,6 @@ and deploy end-to-end AI/CV pipelines, including LLM integration and edge device
 4. PhotoRealistic Single Image Super Resolution.
 5. AI Regression Model for Candidate Fitment Prediction.
 6. CNN-based Model for Predicting Car Insurance Costs.
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-
-- **Programming & ML:** Python (NumPy, SciPy, Pandas), C++, PyTorch, ONNX, TensorRT.
-- **Computer Vision & 3D:** Photogrammetry, SLAM, Point Cloud Processing, Meshing (Open3D, Trimesh), ICP, Computational Geometry (Shapely), Object Detection & Segmentation (YOLO), OpenCV, Rasterio.
-- **Generative AI & NLP:** LangChain, OpenAI API (Data Extraction, Workflow Integration).
-- **Robotics & Sensors:** ROS-Melodic, IMU Sensors (9-DOF), Sensor Fusion, TOF Cameras.
-- **Cloud & Deployment:** AWS, Docker, NVIDIA Jetson, Linux, GitHub.
   
 ## Education:
 - **Delhi Technological University:** M.Tech in Computer Science
